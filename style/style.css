@@ -1,3 +1,15 @@
-.duck-image{
-    width: 300px;
+.d-block {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}  
+#headings{
+    text-align: center;
 }

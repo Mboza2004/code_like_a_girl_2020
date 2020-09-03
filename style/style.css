@@ -12,4 +12,13 @@
 }  
 #headings{
     text-align: center;
+    background-color: #FFA2E8;
+    color: white;
 }
+.logo{
+    background-color: #81baf1;
+}
+.navbar{
+    color: #D9F18A;
+}
+

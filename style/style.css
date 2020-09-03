@@ -3,7 +3,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 100%;
 }
 #logo{
     display: block;
@@ -19,10 +19,31 @@
     background-color: #81baf1;
 }
 .navbar{
-    color: #D9F18A;
+    background-color: #D9F18A;
 }
-.btn{
+.btn-primary-kids{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    background-color: #81baf1;
+    border-color: #81baf1;
+    color: white
 }
+.btn-primary-parents{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #D9F18A;
+    border-color: #D9F18A;
+    color: white
+}
+.btn-primary-teachers{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFA2E8;
+    border-color: #FFA2E8;
+    color: white
+}
+
+

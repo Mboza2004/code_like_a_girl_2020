@@ -21,4 +21,8 @@
 .navbar{
     color: #D9F18A;
 }
-
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

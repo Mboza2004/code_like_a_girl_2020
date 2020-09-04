@@ -46,4 +46,12 @@
     color: white
 }
 
+.btn-primary-cards{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFDEAC ;
+    border-color: #FFDEAC;
+    color: white
 
+}

@@ -55,3 +55,25 @@
     color: white
 
 }
+
+.form-group {
+    padding-top: 20px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-primary-submit {
+    display: block;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFDEAC ;
+    border-color: #FFDEAC;
+    color: white;
+}
+
+.form-heading {
+text-align: center;
+}
